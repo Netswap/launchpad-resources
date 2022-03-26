@@ -1,62 +1,60 @@
-[
-  {
-    "id": "0x0705a13fe068fd1f52373aa4ac50f89039538964",
-    "projectInfo": {
-      "name": "netswap",
-      "description": "Netswap is the native DEX built on Metis Layer2",
-      "website": "https://netswap.io",
-      "telegram": "https://t.me/netswap_officialEN",
-      "discord": "https://discord.gg/MfvKCjPu",
-      "twitter": "https://twitter.com/netswapofficial",
-      "medium": "https://medium.com/@netswapofficial"
-    },
-    "saleInfo": {
-      "saleAmount": "10000000",
-      "price": "0.5",
-      "paymentToken": "m.USDC",
-      "depositStart": 1648141573,
-      "depositDuration": 86400,
-      "launchTime": 1648151573,
-      "vesting": "20% TGE, 3 months cliff, 8.89% monthly"
-    },
-    "tokenInfo": {
-      "tokenName": "Netswap Token",
-      "tokenSymbol": "NETT",
-      "tokenDecimals": 18,
-      "totalSupply": "1000000000",
-      "marketCap": "1000000000",
-      "maxSupply": "1000000000",
-      "fdv": "1000000000",
-      "tokenAddress": "0x48c754c7A6ED973FB10d04aDbb15C91BC704F72A"
-    },
-    "about": {
-      "summary": "xxxxxxxxx",
-      "whitepaper": "https://xxxx",
-      "tokenomics": "https://xxxx",
-      "roadmap": "https://xxxx",
-      "team": [
-        {
-          "name": "xxx",
-          "title": "xxx",
-          "avatar": "https://xxxx"
-        },
-        {
-          "name": "xxx",
-          "title": "xxx",
-          "avatar": "https://xxxx"
-        }
-      ],
-      "investors": [
-        {
-          "name": "xxx",
-          "logo": "https://xxxx"
-        }
-      ],
-      "video": {
-        "link": "https://www.youtube.com/watch?v=_07i5LG63Cg&ab_channel=DEXPOOLS",
-        "introduction": "Video Introduction"
+{
+  "id": "0x0705a13fe068fd1f52373aa4ac50f89039538964",
+  "projectInfo": {
+    "name": "netswap",
+    "description": "Netswap is the native DEX built on Metis Layer2",
+    "website": "https://netswap.io",
+    "telegram": "https://t.me/netswap_officialEN",
+    "discord": "https://discord.gg/MfvKCjPu",
+    "twitter": "https://twitter.com/netswapofficial",
+    "medium": "https://medium.com/@netswapofficial"
+  },
+  "saleInfo": {
+    "saleAmount": "10000000",
+    "price": "0.5",
+    "paymentToken": "m.USDC",
+    "depositStart": 1648141573,
+    "depositDuration": 86400,
+    "launchTime": 1648151573,
+    "vesting": "20% TGE, 3 months cliff, 8.89% monthly"
+  },
+  "tokenInfo": {
+    "tokenName": "Netswap Token",
+    "tokenSymbol": "NETT",
+    "tokenDecimals": 18,
+    "totalSupply": "1000000000",
+    "marketCap": "1000000000",
+    "maxSupply": "1000000000",
+    "fdv": "1000000000",
+    "tokenAddress": "0x48c754c7A6ED973FB10d04aDbb15C91BC704F72A"
+  },
+  "about": {
+    "summary": "xxxxxxxxx",
+    "whitepaper": "https://xxxx",
+    "tokenomics": "https://xxxx",
+    "roadmap": "https://xxxx",
+    "team": [
+      {
+        "name": "xxx",
+        "title": "xxx",
+        "avatar": "https://xxxx"
+      },
+      {
+        "name": "xxx",
+        "title": "xxx",
+        "avatar": "https://xxxx"
       }
+    ],
+    "investors": [
+      {
+        "name": "xxx",
+        "logo": "https://xxxx"
+      }
+    ],
+    "video": {
+      "link": "https://www.youtube.com/watch?v=_07i5LG63Cg&ab_channel=DEXPOOLS",
+      "introduction": "Video Introduction"
     }
   }
-]
+}
 

@@ -22,10 +22,10 @@
     "tokenName": "Dexpools",
     "tokenSymbol": "DXP",
     "tokenDecimals": 18,
-    "totalSupply": "100000000",
-    "marketCap": "6000000",
-    "maxSupply": "100000000",
-    "fdv": "50000000",
+    "totalSupply": "100,000,000",
+    "marketCap": "$6,000,000",
+    "maxSupply": "100,000,000",
+    "fdv": "$50,000,000",
     "tokenAddress": "0xFA9e7B1D5bFBBDceD0eFF30Eea4bB4289bFE8eEa"
   }
 }

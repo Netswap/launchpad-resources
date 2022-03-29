@@ -1,0 +1,32 @@
+{
+  "id": "0xf8eeaa0288cc77ba347527bf09fc6914182ec564",
+  "projectInfo": {
+    "name": "Dexpools",
+    "description": "Dexpools gives traders, gamers, and nft collectors the power to trade with their network publicly or privately on any EVM compatible chain",
+    "website": "https://www.dexpools.com",
+    "telegram": "https://t.me/dexpools",
+    "discord": "https://discord.gg/dexpools",
+    "twitter": "https://twitter.com/Dexpools",
+    "medium": "https://dexpools.medium.com/"
+  },
+  "saleInfo": {
+    "saleAmount": "500000",
+    "price": "0.5",
+    "paymentToken": "m.USDC",
+    "depositStart": 1648566000,
+    "depositDuration": 280800,
+    "launchTime": 1649444400,
+    "vesting": "TGE 25% after Copperlaunch, linear vest over 6 months"
+  },
+  "tokenInfo": {
+    "tokenName": "Dexpools",
+    "tokenSymbol": "DXP",
+    "tokenDecimals": 18,
+    "totalSupply": "100,000,000",
+    "marketCap": "$6,000,000",
+    "maxSupply": "100,000,000",
+    "fdv": "$50,000,000",
+    "tokenAddress": "0xFA9e7B1D5bFBBDceD0eFF30Eea4bB4289bFE8eEa"
+  }
+}
+

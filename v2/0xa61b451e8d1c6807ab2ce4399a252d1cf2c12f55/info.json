@@ -1,5 +1,5 @@
 {
-  "id": "0xb3e6d285e20fc1df55e5969db7153ed25a2fec92",
+  "id": "0xa61b451e8d1c6807ab2ce4399a252d1cf2c12f55",
   "projectInfo": {
     "name": "Dexpools",
     "description": "Dexpools gives traders, gamers, and nft collectors the power to trade with their network publicly or privately on any EVM compatible chain",
@@ -14,7 +14,7 @@
     "price": "0.5",
     "paymentToken": "m.USDC",
     "depositStart": 1648566000,
-    "depositDuration": 280800,
+    "depositDuration": 194400,
     "launchTime": 1649444400,
     "vesting": "TGE 25% after Copperlaunch, linear vest over 6 months"
   },

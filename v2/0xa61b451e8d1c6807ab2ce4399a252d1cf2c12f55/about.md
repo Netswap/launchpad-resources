@@ -22,16 +22,16 @@ Check details on this [link](https://dexpools.com/wp-content/uploads/2022/03/Dex
 
 ## Tokenomics
 
-![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xb3e6d285e20fc1df55e5969db7153ed25a2fec92/static/images/tokenomics.png)
+![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xa61b451e8d1c6807ab2ce4399a252d1cf2c12f55/static/images/tokenomics.png)
 
 ## Roadmap
 
-![Roadmap](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xb3e6d285e20fc1df55e5969db7153ed25a2fec92/static/images/roadmap.png)
+![Roadmap](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xa61b451e8d1c6807ab2ce4399a252d1cf2c12f55/static/images/roadmap.png)
 
 ## Team
 
-![Team](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xb3e6d285e20fc1df55e5969db7153ed25a2fec92/static/images/team.png)
+![Team](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xa61b451e8d1c6807ab2ce4399a252d1cf2c12f55/static/images/team.png)
 
 ## Investors
 
-![Investors](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xb3e6d285e20fc1df55e5969db7153ed25a2fec92/static/images/investors.png)
+![Investors](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0xa61b451e8d1c6807ab2ce4399a252d1cf2c12f55/static/images/investors.png)

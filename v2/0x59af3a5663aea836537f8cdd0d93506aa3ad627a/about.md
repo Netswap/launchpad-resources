@@ -1,6 +1,13 @@
 ## Project Summary
 
-The Hummus protocol is a single-side Automated Market Maker designed for exchanging stable cryptocurrencies on the Metis blockchain
+Hummus–The Automated Market-Maker (AMM) built exclusively for swapping stablecoins on the Metis Andromeda network. We have combined the speed, security, and efficiency of Metis with an ultra-low slippage stableswap mechanism and dynamic staking rewards system.
+Like the delicious food, the Hummus Exchange can be both an ingredient for traders and arbitrageurs, or the final product for farmers and general DeFi users.
+
+Using Hummus gives users several advantages over traditional swap protocols:
+No impermanent loss risk for liquidity providers
+Single-sided liquidity provision
+Ultra-low slippage for traders
+Minimal fees
 
 ## Tokenomics
 

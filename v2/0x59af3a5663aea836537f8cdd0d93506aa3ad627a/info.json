@@ -24,8 +24,8 @@
     "tokenDecimals": 18,
     "totalSupply": "300,000,000",
     "marketCap": "N/A",
-    "maxSupply": "N/A",
-    "fdv": "N/A",
+    "maxSupply": "300,000,000",
+    "fdv": "30,000,000",
     "tokenAddress": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121"
   }
 }

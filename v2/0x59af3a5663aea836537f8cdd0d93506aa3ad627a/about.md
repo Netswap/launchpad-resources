@@ -15,6 +15,10 @@ Minimal fees
 
 ![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/tokenomics.png)
 
+## Vesting
+
+![Vesting](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/vesting.png)
+
 ## Roadmap
 
 ![Roadmap](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/roadmap.png)

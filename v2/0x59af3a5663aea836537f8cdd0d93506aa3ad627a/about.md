@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/banner.png)
+
 ## Project Summary
 
 Hummus–The Automated Market-Maker (AMM) built exclusively for swapping stablecoins on the Metis Andromeda network. We have combined the speed, security, and efficiency of Metis with an ultra-low slippage stableswap mechanism and dynamic staking rewards system.
@@ -13,3 +15,6 @@ Minimal fees
 
 ![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/tokenomics.png)
 
+## Backers
+
+![Backers](https://raw.githubusercontent.com/Netswap/launchpad-resources/testnet/v2/0x59af3a5663aea836537f8cdd0d93506aa3ad627a/static/images/backers.png)

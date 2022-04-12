@@ -1,0 +1,32 @@
+{
+  "id": "0x9520db998a3db6dfac2abffde5c619f2ba94ed92",
+  "projectInfo": {
+    "name": "Hummus Exchange",
+    "description": "The Hummus protocol is a single-side Automated Market Maker designed for exchanging stable cryptocurrencies on the Metis blockchain",
+    "website": "http://hummus.exchange/",
+    "telegram": "https://t.me/hummusdefi",
+    "discord": "",
+    "twitter": "https://twitter.com/hummusdefi",
+    "medium": ""
+  },
+  "saleInfo": {
+    "saleAmount": "2500000",
+    "price": "0.1",
+    "paymentToken": "m.USDC",
+    "depositStart": 1649775600,
+    "depositDuration": 259200,
+    "launchTime": 1650042000,
+    "vesting": "25% TGE, 6 month linear "
+  },
+  "tokenInfo": {
+    "tokenName": "Hummus",
+    "tokenSymbol": "HUM",
+    "tokenDecimals": 18,
+    "totalSupply": "300,000,000",
+    "marketCap": "N/A",
+    "maxSupply": "300,000,000",
+    "fdv": "$30,000,000",
+    "tokenAddress": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121"
+  }
+}
+

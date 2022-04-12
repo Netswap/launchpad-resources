@@ -13,8 +13,8 @@
     "saleAmount": "2500000",
     "price": "0.1",
     "paymentToken": "m.USDC",
-    "depositStart": 1649777400,
-    "depositDuration": 257400,
+    "depositStart": 1649775600,
+    "depositDuration": 259200,
     "launchTime": 1650042000,
     "vesting": "25% TGE, 6 month linear "
   },

@@ -10,20 +10,20 @@
     "medium": ""
   },
   "saleInfo": {
-    "saleAmount": "",
+    "saleAmount": "6000000",
     "price": "0.03",
     "paymentToken": "m.USDC",
-    "depositStart": 1675105200,
-    "depositDuration": 345600,
-    "launchTime": 1675450800,
-    "vesting": "4 months cliff - 2.0% May 2.0% June	3.5% July	5.0% July	7.5% August	7.5% September	7.5%	October 10.0%	November 10.0% December	15.0%	January 15.0% February	15.0% March"
+    "depositStart": 1675710000,
+    "depositDuration": 518400,
+    "launchTime": 1676228400,
+    "vesting": "12 months cliff - 2.0%	FEB 2.0% MARCH 3.5% APRIL	5.0% MAY 7.5% JUNE 7.5%	JULY 7.5%	AUGUST 10.0% SEPT 10.0%	OCT 15.0%	NOV 15.0% DEC	15.0% JAN"
   },
   "tokenInfo": {
     "tokenName": "Polar",
     "tokenSymbol": "Polar",
     "tokenDecimals": 18,
     "totalSupply": "1,000,000,000",
-    "marketCap": "$2,00,000",
+    "marketCap": "$400,000",
     "maxSupply": "1,000,000,000",
     "fdv": "$3,250,000",
     "tokenAddress": "0x0859B4865c04d1a171E03c7e106544bdc7b6654c"

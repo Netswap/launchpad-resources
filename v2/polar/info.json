@@ -16,7 +16,7 @@
     "depositStart": 1675710000,
     "depositDuration": 518400,
     "launchTime": 1676228400,
-    "vesting": "4 months cliff - 2.0%	FEB 2.0% MARCH 3.5% APRIL	5.0% MAY 7.5% JUNE 7.5%	JULY 7.5%	AUGUST 10.0% SEPT 10.0%	OCT 15.0%	NOV 15.0% DEC	15.0% JAN"
+    "vesting": "2.0% FEB 2.0% MARCH 3.5% APRIL 5.0% MAY 7.5% JUNE 7.5% JULY 7.5% AUGUST 10.0% SEPT 10.0% OCT 15.0% NOV 15.0% DEC 15.0% JAN"
   },
   "tokenInfo": {
     "tokenName": "Polar",

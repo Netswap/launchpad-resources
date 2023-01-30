@@ -14,15 +14,15 @@ Check details on this [link](https://uploads-ssl.webflow.com/624f45bd199eb62bc59
 
 ## Tokenomics
 
-![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/polar/static/images/tokenomics.png)
+![Tokenomics](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/0xd6b4d6c160d63307149a09835941e545168dfb96/static/images/tokenomics.png)
 
 ## Roadmap
 
-![Roadmap](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/polar/static/images/roadmap.png)
+![Roadmap](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/0xd6b4d6c160d63307149a09835941e545168dfb96/static/images/roadmap.png)
 
 ## Team
 
-![Team](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/polar/static/images/team.png)
+![Team](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/0xd6b4d6c160d63307149a09835941e545168dfb96/static/images/team.png)
 
 ## Private Investor
 

@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Netswap/launchpad-resources/master/v2/0xd6b4d6c160d63307149a09835941e545168dfb96/static/images/banner.png)
+
 ## Project Summary
 
 A new way to engage with your fandom🏅
